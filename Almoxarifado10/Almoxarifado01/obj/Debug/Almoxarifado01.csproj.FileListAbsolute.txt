@@ -1,0 +1,34 @@
+c:\users\danilo augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+c:\users\danilo augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+c:\users\danilo augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+c:\users\danilo augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.csprojResolveAssemblyReference.cache
+c:\users\danilo augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+c:\users\danilo augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+c:\users\danilo augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.csproj.GenerateResource.Cache
+c:\users\danilo augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.csproj.CoreCompileInputs.cache
+c:\users\danilo augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+c:\users\danilo augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+C:\Users\Danilo Augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmSalvarBackup.resources
+C:\Users\Danilo Augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+C:\Users\Danilo Augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+C:\Users\Danilo Augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+C:\Users\Danilo Augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+C:\Users\Danilo Augusto\documents\visual studio 2017\Projects\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmRestaurarBackup.resources
+D:\Almoxarifado01\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+D:\Almoxarifado01\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+D:\Almoxarifado01\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.csprojResolveAssemblyReference.cache
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmRestaurarBackup.resources
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.frmSalvarBackup.resources
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.csproj.GenerateResource.Cache
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.csproj.CoreCompileInputs.cache
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+D:\Almoxarifado01\Almoxarifado01\obj\Debug\Almoxarifado01.pdb

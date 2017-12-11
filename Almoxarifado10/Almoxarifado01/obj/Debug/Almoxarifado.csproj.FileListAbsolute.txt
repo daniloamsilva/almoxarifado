@@ -1,0 +1,383 @@
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmRestaurarBackup.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmSalvarBackup.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+E:\Almoxarifado02\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+E:\Almoxarifado02\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+E:\Almoxarifado02\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+E:\Almoxarifado02\Almoxarifado01\bin\Debug\MySql.Data.dll
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmRestaurarBackup.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmSalvarBackup.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+E:\Almoxarifado02\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\bin\Debug\MySql.Data.dll
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmRestaurarBackup.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmSalvarBackup.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado03\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\bin\Debug\MySql.Data.dll
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmRestaurarBackup.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmSalvarBackup.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarioCriar.resources
+D:\Almoxarifado04\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+D:\Almoxarifado04\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+D:\Almoxarifado04\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+D:\Almoxarifado04\Almoxarifado01\bin\Debug\MySql.Data.dll
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmRestaurarBackup.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmSalvarBackup.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarioCriar.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+D:\Almoxarifado04\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+D:\Almoxarifado05\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+D:\Almoxarifado05\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+D:\Almoxarifado05\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+D:\Almoxarifado05\Almoxarifado01\bin\Debug\MySql.Data.dll
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarioCriar.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.frmBackup.resources
+D:\Almoxarifado05\Almoxarifado01\obj\Debug\Almoxarifado01.FornecedorAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\bin\Debug\MySql.Data.dll
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmBackup.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiraAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarioAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetoresAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedorAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidadesAdicionar.resources
+D:\Almoxarifado06\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+D:\Almoxarifado06\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+D:\Almoxarifado06\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+D:\Almoxarifado06\Almoxarifado01\bin\Debug\MySql.Data.dll
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedorAdicionar.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiraAdicionar.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmBackup.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetoresAdicionar.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidadesAdicionar.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarioAdicionar.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+D:\Almoxarifado06\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedorAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiraAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmBackup.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetoresAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidadesAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarioAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado07\Almoxarifado01\bin\Debug\MySql.Data.dll
+D:\Almoxarifado08\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+D:\Almoxarifado08\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+D:\Almoxarifado08\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+D:\Almoxarifado08\Almoxarifado01\bin\Debug\MySql.Data.dll
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedorAdicionar.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiraAdicionar.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmBackup.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetoresAdicionar.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarioAdicionar.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmProdutoEntrada.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\bin\Debug\MySql.Data.dll
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedorAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiraAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmProdutoEntrada.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmBackup.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetoresAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarioAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidadeAdicionar.resources
+D:\Almoxarifado08\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidadeAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\bin\Debug\MySql.Data.dll
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedorAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiraAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmProdutoEntrada.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmBackup.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetoresAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidadeAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarioAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.AlterarSenha.resources
+D:\Almoxarifado09\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+D:\Almoxarifado09\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+D:\Almoxarifado09\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+D:\Almoxarifado09\Almoxarifado01\bin\Debug\MySql.Data.dll
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmAlterarProduto.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.AlterarSenha.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedorAdicionar.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiraAdicionar.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmProdutoEntrada.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmBackup.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetoresAdicionar.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidadeAdicionar.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarioAdicionar.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+D:\Almoxarifado09\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\bin\Debug\Almoxarifado01.exe.config
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\bin\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\bin\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\bin\Debug\MySql.Data.dll
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado.csprojResolveAssemblyReference.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.AreaAdministrativa.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmAvisos.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmCadastrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmEncontrarProduto.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedorAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmFornecedores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmLogin.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmMovimentacoes.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiraAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmPrateleiras.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmProdutoEntrada.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.Properties.Resources.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmBackup.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetores.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmSetoresAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidades.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmUnidadeAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarioAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmUsuarios.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado.csproj.GenerateResource.Cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado.csproj.CoreCompileInputs.cache
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.exe
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.pdb
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmProdutoSaida.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmSolicitanteAdicionar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmSolicitantes.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmTrocarSenha.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmEstoque.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmLoginAlterar.resources
+C:\Users\Danilo Augusto\Documents\Visual Studio 2017\Projects\Almoxarifado10\Almoxarifado01\obj\Debug\Almoxarifado01.frmFiltroEstoque.resources
